@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\RoughPad\OpenCoverTest\OpenCoverTest\bin\Debug\OpenCoverTest.exe" total="3" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-09-11" time="22:15:15">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5420" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="D:\RoughPad\OpenCoverTest\OpenCover" machine-name="CIPL-6PC61" user="pszala" user-domain="CYGNET" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\RoughPad\OpenCoverTest\OpenCoverTest\bin\Debug\OpenCoverTest.exe" executed="True" result="Failure" success="False" time="0.340" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="OpenCoverTest" executed="True" result="Failure" success="False" time="0.329" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="CalcTest" executed="True" result="Failure" success="False" time="0.326" asserts="0">
+            <results>
+              <test-case name="OpenCoverTest.CalcTest.TestAdd" executed="True" result="Success" success="True" time="0.033" asserts="1" />
+              <test-case name="OpenCoverTest.CalcTest.TestAddException" executed="True" result="Error" success="False" time="0.141" asserts="0">
+                <failure>
+                  <message><![CDATA[System.ArgumentException : some message...]]></message>
+                  <stack-trace><![CDATA[at OpenCoverTest.Calc.DoAdd(Int32 a, Int32 b) in d:\RoughPad\OpenCoverTest\OpenCoverTest\Calc.cs:line 20
+at OpenCoverTest.CalcTest.TestAddException() in d:\RoughPad\OpenCoverTest\OpenCoverTest\CalcTest.cs:line 33
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="OpenCoverTest.CalcTest.TestSub" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

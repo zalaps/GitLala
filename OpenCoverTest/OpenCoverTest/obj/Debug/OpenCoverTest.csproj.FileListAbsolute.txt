@@ -1,0 +1,7 @@
+D:\RoughPad\OpenCoverTest\OpenCoverTest\bin\Debug\OpenCoverTest.exe.config
+D:\RoughPad\OpenCoverTest\OpenCoverTest\bin\Debug\OpenCoverTest.exe
+D:\RoughPad\OpenCoverTest\OpenCoverTest\bin\Debug\OpenCoverTest.pdb
+D:\RoughPad\OpenCoverTest\OpenCoverTest\bin\Debug\nunit.framework.dll
+D:\RoughPad\OpenCoverTest\OpenCoverTest\bin\Debug\nunit.framework.xml
+D:\RoughPad\OpenCoverTest\OpenCoverTest\obj\Debug\OpenCoverTest.exe
+D:\RoughPad\OpenCoverTest\OpenCoverTest\obj\Debug\OpenCoverTest.pdb

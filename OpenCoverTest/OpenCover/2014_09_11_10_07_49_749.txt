@@ -1,0 +1,2 @@
+OpenCoverTest.CalcTest.TestAdd
+OpenCoverTest.CalcTest.TestSub
